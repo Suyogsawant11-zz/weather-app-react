@@ -5,6 +5,6 @@ import * as ReactDOM from 'react-dom';
 import App from './components/app';
 
 ReactDOM.render (
-<App color="Blue" />,
+<App />,
   document.getElementById("root")
 );
